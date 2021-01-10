@@ -1,0 +1,4 @@
+*.a
+*.cmake
+add_by.h
+CMakeFiles

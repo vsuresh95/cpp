@@ -1,0 +1,3 @@
+#cmakedefine __VALUE__
+#cmakedefine __REFERENCE__
+#cmakedefine __POINTER__

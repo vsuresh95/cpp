@@ -1,0 +1,8 @@
+[submodule "simple-memory"]
+	path = simple-memory
+	url = git@github.com:vsuresh95/simple-memory.git
+	branch = master
+[submodule "seq-consistency"]
+	path = seq-consistency
+	url = git@github.com:vsuresh95/seq-consistency.git
+	branch = master
